@@ -12,7 +12,7 @@ This project explores two powerful multimodal tasks in deep learning: **generati
 
 ## 📌 Phase 1: Image Captioning with CNN-Transformer  
 
-🔗 [View Phase 1 Notebook on GitHub](https://github.com/kalana-mihiranga/Image-Captioning/blob/main/Phas)
+🔗 [View Phase 1 Notebook on GitHub](https://github.com/Vihanga200/Image-Captioning/blob/main/model.py)
 
 
 An end-to-end deep learning pipeline that generates descriptive captions for images using a hybrid **EfficientNetB0 + Transformer Decoder** model, built entirely with TensorFlow/Keras.
